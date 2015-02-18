@@ -1,0 +1,7 @@
+target/
+.classpath
+.project
+.settings/
+**/VAADIN/widgetsets/
+**/VAADIN/themes/**/styles.css
+**/VAADIN/themes/**/*.scss.cache
